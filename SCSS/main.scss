@@ -14,6 +14,7 @@ header {
 
     nav {
         background-color: rgb(182, 238, 238);
+        
           
 
     }
@@ -94,6 +95,7 @@ section {
 .logo {
     padding-bottom: 15px;
     padding-top: 15px;
+    
 }
 
 .estefi {
@@ -116,6 +118,45 @@ section {
     font-size: 1rem;
     
 }
+
+
+.contenedor_imagenes {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 12px;
+}
+
+
+.contenedor_imagenes section {
+    flex-basis: 20%;
+    box-sizing: border-box;
+    margin: 1rem;
+    border-radius: 5px;
+}
+
+.contenedor_imagenes section img {
+width: 100%;
+height: auto;
+object-fit: cover;
+vertical-align: middle;
+
+}
+
+.contenedor_imagenes section p {
+
+text-align: center;
+font-size: 15px;
+}
+.imagenes {
+    width: 24rem;
+    height: 24rem;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
 
 .titulo {
     font-size: 1.5rem;
@@ -142,12 +183,24 @@ section {
    
 }
 
+.fotoPanaderia {
+    height: 25rem;
+    width: 25rem;
+}
+
+
+
 @media (min-width:435px) and (max-width:800px) {
     .fotoEstefi {
         left: 200px;
         height: 50%;
         width: 50%;
     }
+
+   
+
+
+   
 }
 
 @media (min-width:250px) and (max-width:434px) {

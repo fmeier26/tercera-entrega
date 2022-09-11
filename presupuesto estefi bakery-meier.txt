@@ -1,0 +1,21 @@
+Objetivo: Tener lista la web full responsive para el emprendimiento Estefi's Bakery.
+Herramientas de desarrollo: Framework bootstrap / css - sass / visual code / aos animation. Alojamiento en don web.
+Fases de desarrollo: Previo al pago del 50 % y aceptacion del sketch, se mostrara al cliente el esqueleto de la web sin formato. ( fase de diseño )
+Una vez que se decida avanzar, en esa reunion se pactan las paletas de colores que el cliente prefiere. ( fase estructural )
+Un segundo encuentro a los 10 días, para ya presentar en la etapa final el html con la gama de colores deseada. ( fase contruccion y fase de pruebas )
+En el caso de ser necesario realizar ya con la web 100 % vista, algun tipo de modificacion y pasados los 7 días, entrega final de la web. ( web finalizada y alojada en hosting )
+
+¿ cuales son nuestros tiempos ?
+Todas las cotizaciones, tienen un plazo de aprobacion de 3 dias habiles para poder respetar el precio en pesos que el cliente va a tener.
+Se trabajará con un plazo de 21 a 30 días para todas las etapas y fases del proyecto.
+
+¿ que esta incluido en nuestra tarifa ?
+web full responsive
+diseños y formato de la web adaptada a las necesidades y gustos de nuestros clientes.
+SEO para posicionamento standar de la web mejorando la traccion al posicionamiento de la imagen y/o marca
+
+Formas de Pago
+Se pedirá al cliente el 50 % al iniciar y al entrar en la última etapa de la web, cuando ya está todo encaminado, el cliente vió y aceptó las últimas modificacion, se pactá el otro 50 %.
+
+Cotizacion web Estefi's Bakery ARS 60.000. Cualquier modificacion respecto al cambio de imagenes, o refresh por nuevos productos se pactará una nueva tarifa en base al trabajo necesitado por el cliente.
+
