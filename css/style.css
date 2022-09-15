@@ -89,11 +89,14 @@ section {
   padding-bottom: 15px;
   padding-top: 15px; }
 
-.estefi {
+.estefi, .estefi2 {
   padding-top: 10px;
   color: #585656;
   font-size: 1rem;
   text-align: justify; }
+
+.estefi2 {
+  padding-left: 10px; }
 
 .imgcarousel {
   height: 350px;

@@ -1,13 +1,13 @@
 
 main {
-    background-color: pink;
+    background-color: $color-principal;
 }
 
 
 
 .twitter {
     text-decoration: none;
-    color: rgb(88, 86, 86);
+    color: $color-secundario;
     padding-bottom: 20px;
     
     
@@ -15,21 +15,21 @@ main {
 
 .facebook {
     text-decoration: none;
-    color: rgb(88, 86, 86);
+    color: $color-secundario;
     padding-bottom: 20px;
     
 }
 
 .instagram {
     text-decoration: none;
-    color: rgb(88, 86, 86);
+    color: $color-secundario;
     padding-bottom: 20px;
     
 }
 
 .linkedin {
     text-decoration: none;
-    color: rgb(88, 86, 86);
+    color: $color-secundario;
     padding-bottom: 20px;
     
 }
@@ -47,9 +47,9 @@ section {
 
 .texto {
     font-size: 1rem;
-    background-color: pink;
+    background-color: $color-principal;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(88, 86, 86);    
+    color: $color-secundario;  
     margin-left: 10px;
 }
 
@@ -63,12 +63,15 @@ section {
 
 .estefi {
     padding-top: 10px;
-    color: rgb(88, 86, 86); 
+    color: $color-secundario;
     font-size: 1rem;  
     text-align: justify;
-    
-    
+        
+}
 
+.estefi2 {
+    @extend .estefi;
+    padding-left: 10px;
 }
 
 .imgcarousel {
@@ -78,20 +81,17 @@ section {
 }
 
 .fondo {
-    background-color: pink;
+    background-color: $color-principal;
     text-align: center;
     font-size: 1rem;
     
 }
 
 
-
-
-
 .titulo {
     font-size: 1.5rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(88, 86, 86);   
+    color: $color-secundario;  
     padding-top: 10px;
     padding-left: 10px;
     
@@ -99,7 +99,7 @@ section {
 
 .padding{
     padding-top: 10px;
-    background-color: pink;
+    background-color: $color-principal;
     font-size: 1rem;
     
 }
