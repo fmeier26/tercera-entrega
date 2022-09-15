@@ -1,0 +1,121 @@
+
+main {
+    background-color: pink;
+}
+
+
+
+.twitter {
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+    padding-bottom: 20px;
+    
+    
+}
+
+.facebook {
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+    padding-bottom: 20px;
+    
+}
+
+.instagram {
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+    padding-bottom: 20px;
+    
+}
+
+.linkedin {
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+    padding-bottom: 20px;
+    
+}
+
+section {
+    background-color: $color-principal;
+    text-align: start;
+    font-size: $tam-fuente;
+
+      
+    
+}
+
+
+
+.texto {
+    font-size: 1rem;
+    background-color: pink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(88, 86, 86);    
+    margin-left: 10px;
+}
+
+
+
+.logo {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
+}
+
+.estefi {
+    padding-top: 10px;
+    color: rgb(88, 86, 86); 
+    font-size: 1rem;  
+    text-align: justify;
+    
+    
+
+}
+
+.imgcarousel {
+    height: 350px;
+    object-fit: cover;
+    
+}
+
+.fondo {
+    background-color: pink;
+    text-align: center;
+    font-size: 1rem;
+    
+}
+
+
+
+
+
+.titulo {
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(88, 86, 86);   
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+.padding{
+    padding-top: 10px;
+    background-color: pink;
+    font-size: 1rem;
+    
+}
+
+.fotoEstefi {
+    height: 25%;
+    width: 25%;
+    display: flex;
+    position: relative;
+    padding-bottom: 10px;
+    left: 500px;
+    
+   
+}
+
+.fotoPanaderia {
+    height: 25rem;
+    width: 25rem;
+}
